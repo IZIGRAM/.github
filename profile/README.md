@@ -2,11 +2,10 @@
   <img src="https://raw.githubusercontent.com/IZIGRAM/.github/main/assets/Frame%20290.png" width="160">
 </p>
 
-
 <h1 align="center">IZIGRAM</h1>
 
 <p align="center">
-  <b>Web3-ready messenger</b> з фокусом на приватність, швидкість і сучасний дизайн.
+  <b>Web3-ready messenger</b> focused on privacy, speed, and modern design.
 </p>
 
 <p align="center">
@@ -17,91 +16,91 @@
 
 ---
 
-## ✨ Що таке IZIGRAM?
+## ✨ What is IZIGRAM?
 
-IZIGRAM — це месенджер нового покоління, який поєднує:
+IZIGRAM is a next-generation messenger that combines:
 
-- 🔐 приватні чати з наскрізним шифруванням  
-- 👤 цифрову ідентичність, що належить користувачу  
-- 💎 інтеграцію Web3-гаманців та токенів  
-- ⚡ легкий, плавний і преміальний інтерфейс  
+- 🔐 end-to-end encrypted private chats  
+- 👤 user-owned digital identity  
+- 💎 integrated Web3 wallets and tokens  
+- ⚡ a clean, smooth and premium interface  
 
-Ми створюємо платформу, де соціальне, фінансове та Web3 з’єднані в один продукт.
-
----
-
-## 🎨 Дизайн та філософія
-
-> Простота, швидкість, фокус на досвіді.
-
-- мінімалістичні інтерфейси  
-- м’які градієнти і чиста типографія  
-- продумана анімація в додатку (без важких медіа в README)  
-- акцент на комфорті очей  
-- інтерфейс, який не відволікає  
+We are building a platform where social communication, finance, and Web3 technologies come together in one ecosystem.
 
 ---
 
-## 💬 Основний функціонал
+## 🎨 Design Philosophy
 
-- приватні чати  
-- групи та канали  
-- публічні та приватні профілі  
-- Web3-гаманець у профілі  
-- токени / баланс  
-- базова монетизація  
-- AI-помічник у чатах  
+> Simplicity, speed, and user-focused experience.
 
----
-
-## 🔗 Web3 інтеграції
-
-IZIGRAM готується до:
-
-- підтримки EVM-гаманців  
-- p2p-переказів токенів у чатах  
-- NFT-аватарів  
-- токен-гейтед спільнот  
-- соціального графа Web3  
-- DID / SBT ідентичностей  
+- minimalistic and intuitive interfaces  
+- soft gradients and clean typography  
+- subtle, meaningful in-app animations  
+- comfortable visual experience  
+- a UI that enhances communication, not distracts from it  
 
 ---
 
-## 🛠 Технології
+## 💬 Core Features
+
+- private chats  
+- groups and channels  
+- public & private profiles  
+- integrated Web3 wallet  
+- token balance in profile  
+- basic monetization tools  
+- optional AI chat assistant  
+
+---
+
+## 🔗 Web3 Integrations
+
+IZIGRAM is preparing support for:
+
+- EVM-compatible wallets  
+- peer-to-peer token transfers inside chats  
+- NFT avatars  
+- token-gated communities  
+- Web3 social graph  
+- DID / SBT identities  
+
+---
+
+## 🛠 Technology Stack
 
 **Frontend / Mobile**
 - React Native  
 - TypeScript  
-- Expo / Bare workflow  
 
 **Backend**
 - NestJS  
-- PostgreSQL  
+- PostgreSQL
+- ScyllaDB 
 - Redis  
 - WebSockets  
 
 **Web3**
-- Ethers.js  
-- EVM-compatible chains  
+- Solidity
+- Rust
 
 ---
 
-## 🚀 Статус проєкту
+## 🚀 Project Status
 
-- ✔ активна розробка  
-- ✔ оптимізація чату  
-- 🔄 інтеграція Web3-модуля  
-- 🔄 підготовка до приватної беті  
+- ✔ active development  
+- ✔ improved chat performance  
+- ✔ Web3 module fully integrated  
+- ✔ closed beta launched  
+- 🔄 preparing for public release  
 
 ---
 
-## 🤝 Контакти
+## 🤝 Contact
 
-Запити та партнерства: **sales@izigram.com**
+Partnership & product inquiries: **sales@izigram.com**
 
 ---
 
 <p align="center">
-  <sub>IZIGRAM — месенджер, у якому цифрова свобода стає стандартом.</sub>
+  <sub>IZIGRAM — a messenger where digital freedom becomes the default.</sub>
 </p>
-
