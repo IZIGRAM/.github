@@ -90,7 +90,8 @@ IZIGRAM is preparing support for:
 - ✔ active development  
 - ✔ improved chat performance  
 - ✔ Web3 module fully integrated  
-- ✔ closed beta launched  
+- ✔ closed beta launched
+- ✔ open beta launched
 - 🔄 preparing for public release  
 
 ---
