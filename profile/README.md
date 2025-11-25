@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/izigram-logo.svg" alt="IZIGRAM Logo" width="110">
+  <img src="https://raw.githubusercontent.com/IZIGRAM/.github/main/assets/Frame%20290.png" width="160">
 </p>
+
 
 <h1 align="center">IZIGRAM</h1>
 
@@ -96,7 +97,7 @@ IZIGRAM готується до:
 
 ## 🤝 Контакти
 
-Запити та партнерства: **contact@izigram.app**
+Запити та партнерства: **sales@izigram.com**
 
 ---
 
