@@ -91,7 +91,7 @@ IZIGRAM is preparing support for:
 - ✔ improved chat performance  
 - ✔ Web3 module fully integrated  
 - ✔ closed beta launched
-- ✔ open beta launched
+- ✔ <a href="https://testflight.apple.com/join/NhkqP82E" > open beta launched </a>
 - 🔄 preparing for public release  
 
 ---
